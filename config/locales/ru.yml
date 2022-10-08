@@ -1,0 +1,7 @@
+ru:
+  api:
+    errors:
+      missing_params: В запросе отсутствуют необходимые параметры
+      geocoding:
+        not_found: Не удалось геокодировать адрес
+
