@@ -16,7 +16,6 @@
 ENV['RACK_ENV'] ||= 'test'
 
 require 'factory_bot'
-require 'rack/test'
 
 require_relative '../config/loader'
 
